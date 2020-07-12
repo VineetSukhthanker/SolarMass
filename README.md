@@ -1,6 +1,6 @@
 This is my 11 std CS Project
 
-##SolarMass
+## SolarMass
 
 This program lets you calculate your BMI on...Earth.
 
